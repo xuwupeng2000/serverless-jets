@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@rails/webpacker": "^4.0.2",
+    "coffeescript": "1.12.7"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.5.1",
+    "cssnano": "^4.1.10",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-import": "^12.0.1",
+    "postcss-loader": "^3.0.0",
+    "sugarss": "^2.0.0",
+    "webpack-dev-server": "^3.4.1"
+  }
+}
